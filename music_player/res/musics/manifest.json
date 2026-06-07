@@ -1,10 +1,10 @@
 {
   "musics": [
     {
-      "path": "UnamedRhythm.wav",
-      "name": "UnamedRhythm",
+      "path": "UnnamedRhythm.wav",
+      "name": "UnnamedRhythm",
       "artist": "Benign X",
-      "cover": "UnamedRhythm.png",
+      "cover": "UnnamedRhythm.png",
       "total_time": 12000,
       "color": "#114514"
     }
